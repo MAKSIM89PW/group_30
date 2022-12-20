@@ -1,0 +1,10 @@
+m hi
+Hololo witten 123
+mm hi hi
+
+
+Compressing 
+objects
+100
+(62/62)
+ done
